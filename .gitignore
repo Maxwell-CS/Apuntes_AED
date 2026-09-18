@@ -1,0 +1,11 @@
+# Ignorar todo por defecto
+*
+
+# Permitir entrar en las carpetas (para conservar la estructura por semana)
+!*/
+
+# Permitir los archivos .cpp
+!*.cpp
+
+# Permitir este archivo (solo el de la raíz)
+!/.gitignore
